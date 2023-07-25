@@ -10,6 +10,7 @@
  * @width: Width
  * @precision: Precision specification
  * @size: Size specifier
+ * Done by Cynthia and Daniel
  * Return: Number of chars printed
  */
 int print_char(va_list types, char buffer[],

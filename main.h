@@ -19,6 +19,7 @@
  *
  * @fmt: The format.
  * @fn: The function associated.
+ * Done by Cynthia and Daniel
  */
 struct fmt
 {
